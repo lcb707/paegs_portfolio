@@ -1,0 +1,10 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#111827"/>
+  <polyline points="80,450 220,380 330,420 480,270 620,320 760,180 920,240 1120,100" stroke="#10B981" stroke-width="14" fill="none"/>
+  <circle cx="220" cy="380" r="12" fill="#A7F3D0"/>
+  <circle cx="480" cy="270" r="12" fill="#A7F3D0"/>
+  <circle cx="760" cy="180" r="12" fill="#A7F3D0"/>
+  <circle cx="1120" cy="100" r="12" fill="#A7F3D0"/>
+  <text x="80" y="120" fill="#D1FAE5" font-size="52" font-family="Arial, sans-serif">LogPulse</text>
+  <text x="80" y="180" fill="#9CA3AF" font-size="26" font-family="Arial, sans-serif">Realtime log analytics dashboard</text>
+</svg>
