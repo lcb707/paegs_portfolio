@@ -42,16 +42,7 @@ export function Hero() {
             className="inline-flex items-center gap-2 rounded-full bg-emerald-600 px-5 py-3 text-sm font-semibold text-white transition hover:bg-emerald-500"
           >
             <Download size={16} />
-            Resume
-          </a>
-          <a
-            href={hero.githubUrl}
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex items-center gap-2 rounded-full border border-zinc-300 px-5 py-3 text-sm font-semibold text-zinc-700 transition hover:border-emerald-600 hover:text-emerald-600"
-          >
-            GitHub
-            <ExternalLink size={16} />
+            이력서
           </a>
           <Link
             href="/cover-letter"
