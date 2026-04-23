@@ -82,7 +82,7 @@ export const portfolioData: PortfolioData = {
     role: "Backend Engineer",
     tagline: "안정적인 서버 구조와 운영 자동화를 통해 서비스 신뢰를 높이는 백엔드 엔지니어입니다.",
     summary: [
-      "4년 9개월 차 백엔드 엔지니어: TypeScript, Python, Node.js 기반의 다각적 서버 설계 및 운영 역량 보유.",
+      "4년 11개월 차 백엔드 엔지니어: TypeScript, Python, Node.js 기반의 다각적 서버 설계 및 운영 역량 보유.",
       "성능 최적화 및 트래픽 대응: 쿼리 최적화, Redis 캐싱, 비동기 로직 개선을 통해 트래픽 급증 상황에서 API 응답 지연 문제를 구조적으로 해결.",
       "인프라 및 자동화: AWS(EC2, S3, RDS) 기반의 CI/CD 파이프라인 구축으로 배포 프로세스 효율화 및 개발 생산성 향상.",
       "운영 안정성 확보: Python 스크립트를 활용한 로그 분석 및 리소스 시각화로 불필요한 서버 자원 낭비를 개선하고 데이터 불일치 이슈 해결.",
